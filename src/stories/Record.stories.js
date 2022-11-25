@@ -13,7 +13,7 @@ NoMonthLists.args = {
   month: false,
 };
 
-// export const ShowMonthLists = Template.bind({});
-// ShowMonthLists.args = {
-//   month: true,
-// };
+export const ShowMonthLists = Template.bind({});
+ShowMonthLists.args = {
+  month: true,
+};

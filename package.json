@@ -17,7 +17,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "chromatic": "npx chromatic --project-token=eac7c6c4e1ca"
   },
   "eslintConfig": {
     "extends": [
@@ -62,5 +63,7 @@
     "chromatic": "^6.11.4",
     "prop-types": "^15.8.1",
     "webpack": "^5.75.0"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "storybook@0.1.0"
 }
